@@ -2,7 +2,7 @@
 
 Frontend Challenge - Huddle Landing Page Intro
 
-Solution for Huddle Landing Page Intro challenge
+Solution for Huddle Landing Page Intro challenge.
 
 # Frontend Mentor - Huddle Landing Page Intro
 
